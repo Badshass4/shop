@@ -1,0 +1,1 @@
+export const BASEURL = 'https://api.predic8.de:443/shop/';
